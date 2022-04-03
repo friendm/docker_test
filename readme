@@ -1,0 +1,5 @@
+1.Save the jupyter notebook in a  docker mountable location
+2.First run the command to instatiate the docker instance located in Docker_command.txt
+3.Once the docker instance is deployed run the two commands in Commands_To_Run.txt
+4.See if you can view the mercury server on port 10000
+
