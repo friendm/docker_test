@@ -1,3 +1,0 @@
-pip install mljar-mercury
-
-mercury run
